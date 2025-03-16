@@ -7,7 +7,6 @@ Welcome to **weCoders**! This is a responsive and modern blog platform built usi
 - 📱 **Fully Responsive Design** - Works seamlessly on all devices.
 - 🎨 **Bootstrap UI Components** - Uses Bootstrap for a modern look.
 - 📝 **Dynamic Blog Layout** - Well-structured sections for blogs.
-- 🌐 **SEO-Friendly** - Optimized for search engines.
 - 📂 **Easy to Customize** - Modify and extend as per your needs.
 
 ## 📂 Project Structure
@@ -17,8 +16,6 @@ weCoders/
 │── index.html       # Main entry point
 │── about.html       # About page
 │── contact.html     # Contact page
-│── blog.html        # Blog listing page
-│── post.html        # Single blog post template
 │── assets/
 │   │   ├── # Bootstrap framework
 │   ├── images/              # Blog images & assets
